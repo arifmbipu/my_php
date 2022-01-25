@@ -1,2 +1,2 @@
-# php_login_entry
+# PHP
 Connect your website with Database using PHP
